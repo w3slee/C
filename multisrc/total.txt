@@ -1,0 +1,8 @@
+Price of item: Total so far: 23.32
+Price of item: Total so far: 46.64
+Price of item: Total so far: 48.76
+Price of item: Total so far: 225960.19
+Price of item: Total so far: 225963.38
+Price of item: 
+Final total: 225963.38
+Number of items: 5
